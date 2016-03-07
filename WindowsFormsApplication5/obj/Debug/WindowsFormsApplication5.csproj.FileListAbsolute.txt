@@ -1,0 +1,50 @@
+c:\users\amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\amigo's\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Амир\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Амир\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Амир\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Амир\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Амир\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Амир\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Амир\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Амир\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Амир\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Амир\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Compressing_and_Y.resources
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Amigo's\Desktop\УИР\отчет по уиру\итерация 2 (пхэш)\6 итерация финал на уир\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Amigo's\Desktop\УИР\отчет по уиру\итерация 2 (пхэш)\6 итерация финал на уир\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Amigo's\Desktop\УИР\отчет по уиру\итерация 2 (пхэш)\6 итерация финал на уир\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Accord.Statistics.dll
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Accord.dll
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\AForge.dll
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\AForge.Math.dll
+C:\Users\Amigo's\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Accord.Math.dll
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\bin\Debug\Accord.Statistics.dll
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\bin\Debug\Accord.dll
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\bin\Debug\AForge.dll
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\bin\Debug\AForge.Math.dll
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\bin\Debug\Accord.Math.dll
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Amigo's\Desktop\recogn\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
